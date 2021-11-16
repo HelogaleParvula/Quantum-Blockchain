@@ -1,0 +1,8 @@
+Block: 2
+
+Transaction number: 3
+Sending node: 5
+Wallet: 12
+Sends: 6
+Receiving node: 6
+
