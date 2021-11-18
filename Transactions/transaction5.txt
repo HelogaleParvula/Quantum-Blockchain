@@ -1,5 +1,0 @@
-Transaction number: 5
-Sending node: 5
-Wallet: 12
-Sends: 6
-Receiving node: 6

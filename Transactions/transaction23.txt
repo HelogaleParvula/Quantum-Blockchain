@@ -1,5 +1,0 @@
-Transaction number: 23
-Sending node: 34
-Wallet: 43
-Sends: 2
-Receiving node: 2
