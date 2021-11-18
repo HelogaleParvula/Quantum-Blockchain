@@ -1,3 +1,5 @@
+# Quantum Blockchain in Python
+
 The main code in this project is located in the file named *Blockchain.ipynb*. In this interactive notebook the two main objects in the project are defined: nodes and blockchain. Both contain the essential methods required by a full working blockchain to work: create hash states, create blocks, add transactions...
 
 ## Class node
