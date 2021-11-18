@@ -1,6 +1,6 @@
 # Quantum Blockchain in Python
 
-The main code in this project is located in the file named *Blockchain.ipynb*. In this interactive notebook the two main objects in the project are defined: nodes and blockchain. Both contain the essential methods required by a full working blockchain to work: create hash states, create blocks, add transactions...
+In this Global Qiskit Hachathon by IBM, we propose a project where we flip the classical paradigm of a blockchain and create a blockchain using quantum mechanics. The project is written in python, and uses the celebrated Python library for quantum computation and quantum information 'Qiskit'. The main code in this project is located in the file named *Blockchain.ipynb*. In this interactive notebook the two main objects in the project are defined: nodes and blockchain. Both contain the essential methods required by a full working blockchain to work: create hash states, create blocks, add transactions...
 
 ## Class node
 Starts by initializing the number of nodes, an index to identify them and the first transactions paths and transaction count.
