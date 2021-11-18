@@ -1,4 +1,4 @@
-The principal part of the code is the file named *Blockchain*. As its name indicates, it is made up of two central classes, class node and class blockchain.
+The main code in this project is located in the file named *Blockchain.ipynb*. In this interactive notebook the two main objects in the project are defined: nodes and blockchain. Both contain the essential methods required by a full working blockchain to work: create hash states, create blocks, add transactions...
 
 ## Class node
 Starts by initializing the number of nodes, an index to identify them and the first transactions paths and transaction count.
