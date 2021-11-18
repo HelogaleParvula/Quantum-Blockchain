@@ -1,6 +1,6 @@
 The principal part of the code is the file named *Node_Blockchain_class*. As its name indicates, it is made up of two central classes, class node and class blockchain.
 
-**Class node:** it starts by initializing the number of nodes, an index to identify them and stets the first transactions paths and transaction count.
+**Class node:** it starts by initializing the number of nodes, an index to identify them and the first transactions paths and transaction count.
 It contains the *transaction function* which verifies that the transaction can be made by checking that the funds in the wallet are greater than the transaction to be made. If true, rewrites the wallet of the involving nodes.
 The *create_block* function creates a text file containing the transaction of the previous block, the previous state, transactions and the block number. It stores the information of the winning node and sets the payments for solving the blocks and the maintenance reward. In addition, it stores the information of the previous fidelities.
 *Update_winners* function sets who solves the block by obtaining the major fidelity. On the other hand, *write_fidelitiy* saves the fidelity table in a cvs file.
